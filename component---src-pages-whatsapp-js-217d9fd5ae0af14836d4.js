@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmls_old_theme=self.webpackChunkmls_old_theme||[]).push([[362],{7577:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var a=n(7294),c=n(1597),r=n(3207);function u(){return a.createElement(c.StaticQuery,{query:"312532796",render:function(e){return a.createElement("div",null,a.createElement("img",{class:"w-50",src:r.Z,alt:"whatsapp"}),"Whatsapp")}})}},3207:function(e,t,n){t.Z=n.p+"static/whatsapp-logo-ea124139dc324ab2609116148f31c6bb.png"}}]);
-//# sourceMappingURL=component---src-pages-whatsapp-js-217d9fd5ae0af14836d4.js.map
