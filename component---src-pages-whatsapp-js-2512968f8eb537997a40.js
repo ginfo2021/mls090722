@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmls_old_theme=self.webpackChunkmls_old_theme||[]).push([[362],{7577:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var r=n(7294),u=n(1597);function l(){return r.createElement(u.StaticQuery,{query:"312532796",render:function(e){return r.createElement("div",null,"Whatsapp")}})}}}]);
-//# sourceMappingURL=component---src-pages-whatsapp-js-2512968f8eb537997a40.js.map
